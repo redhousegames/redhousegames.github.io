@@ -73,10 +73,6 @@ p {
   color: #000;
 }
 
-.nav-link.w--current {
-  color: #fff;
-  text-decoration: none;
-}
 
 .nav-link.logo {
   padding-top: 23px;
